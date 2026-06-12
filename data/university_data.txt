@@ -1,0 +1,117 @@
+=== UNIVERSITY OF LAYYAH - OFFICIAL CAMPUS KNOWLEDGE DATABASE ===
+
+[SECTION: CAMPUSES AND FACULTIES DISTRIBUTION]
+- Campus Name: Main Campus
+  Location: Hafizabad Road, Layyah, Punjab.
+  Faculties Located Here:
+  1. Faculty of Computing and Engineering:
+     - Departments: Department of Computer Science, Department of Information Technology, Department of Software Engineering, Department of Artificial Intelligence & Data Science.
+     - Active Degree Programs: BS Computer Science (BSCS), BS Information Technology (BSIT), BS Artificial Intelligence (BSAI), BS Data Science (BSDS), Bachelor of Business Administration in IT (BBA-IT).
+  2. Faculty of Veterinary and Animal Sciences:
+     - Departments: Department of Microbiology, Department of Biotechnology, Department of Poultry Sciences.
+     - Active Degree Programs: BS Poultry Science, BS Microbiology, BS Biotechnology, Livestock Assistant Diploma (LAD).
+  3. Faculty of Agriculture:
+     - Departments: Department of Agronomy, Department of Food Science & Technology, Department of Entomology.
+     - Active Degree Programs: B.Sc. (Hons) Agriculture, BS Food Science & Technology.
+
+- Campus Name: City Campus
+  Location: Katchehry Road, Layyah City, Punjab.
+  Faculties Located Here:
+  1. Faculty of Natural Sciences:
+     - Departments: Department of Chemistry, Department of Zoology, Department of Botany, Department of Environmental Sciences, Department of Mathematics, Department of Physics.
+     - Active Degree Programs: BS Chemistry, BS Zoology, BS Botany, BS Environmental Sciences, BS Mathematics, BS Physics.
+  2. Faculty of Management, Humanities & Social Sciences:
+     - Departments: Department of Business Administration, Department of English, Department of Education, Department of Islamic Studies, Department of Social Sciences.
+     - Active Degree Programs: BBA (General), BS English, BS Education, BS Islamic Studies, BS International Relations (BS IR), BS Urdu, BS Psychology, BS Sociology, BS Sports Science, BS Economics, BS Public Administration, B.Ed Hons (4-Years), B.Ed (1.5-Years).
+
+
+[SECTION: ADMISSION ELIGIBILITY CRITERIA]
+- Category: Science, Computing & Engineering Programs (4-Years / 8 Semesters)
+  Programs: BS Computer Science, BS Artificial Intelligence, BS Data Science, BS Information Technology, BS Chemistry, BS Zoology, BS Botany, BS Poultry Science, BS Microbiology, BS Biotechnology, BS Food Science & Technology, B.Sc. (Hons) Agriculture, BS Environmental Sciences, BS Mathematics, BS Physics.
+  Eligibility Criteria: Applicants must have passed F.Sc. Pre-Engineering, F.Sc. Pre-Medical, ICS, or an Equivalent Intermediate qualification with at least 50% marks.
+  Merit Calculation Formula: 30% Weightage from Matriculation + 70% Weightage from Intermediate.
+
+- Category: Management, Humanities & Social Sciences Programs (4-Years / 8 Semesters)
+  Programs: BBA, BBA-IT, BS English, BS Education, BS Islamic Studies, BS International Relations, BS Urdu, BS Psychology, BS Sociology, BS Sports Science, BS Economics, BS Public Administration, B.Ed (Hons).
+  Eligibility Criteria: Intermediate (FA, F.Sc, ICS, I.Com) or Equivalent qualification with a minimum of 45% marks.
+  Merit Calculation Formula: 30% Weightage from Matriculation + 70% Weightage from Intermediate.
+
+- Category: BS (Hons) 2-Years (5th Semester Lateral Entry / 4 Semesters)
+  Programs: Available in BBA, English, Education, Islamic Studies, International Relations, Urdu, Psychology, Sociology, Sports Science, Economics, Public Administration, Chemistry, Zoology, Botany, Microbiology, Biotechnology, Environmental Sciences, Mathematics.
+  Eligibility Criteria: Successful completion of Associate Degree Program (ADP), ADA, ADS, or traditional BA/B.Sc with at least 45% marks or 2.00/4.00 CGPA.
+
+- Category: Short Programs & Postgraduate Diplomas
+  Program: B.Ed (1.5-Years) | Eligibility: Master's Degree or BS (Hons) 4-Years in relevant field with at least 45% marks.
+  Program: Livestock Assistant Diploma (LAD - 2 Years) | Eligibility: Matriculation (Science Group) with a minimum of 45% marks.
+
+
+[SECTION: COMPLETE SEMESTER FEE STRUCTURE - SESSION 2025]
+*Note: Fees are structurally distributed between Morning and Afternoon shifts.*
+
+--- MORNING PROGRAMS SEMESTER FEE PROFILE ---
+- Computing Group (BS CS, BS IT, BS AI, BS Data Science, BBA-IT):
+  1st Semester: 41,800 PKR | 2nd Semester: 38,900 PKR | 3rd Semester: 42,090 PKR | 4th Semester: 45,599 PKR | 5th Semester: 49,459 PKR | 6th Semester: 53,705 PKR | 7th Semester: 58,375 PKR | 8th Semester: 63,513 PKR | Grand Total Program Fee: 393,441 PKR.
+- Science Group 1 & 2 (BBA, BS Chemistry, BS Physics, BS Math, BS Botany, BS Zoology, BS Microbiology, BS Poultry Science, BS Environmental Sciences, B.Sc. Hons Agriculture, BS Food Science & Tech, BS Biotechnology, BS Public Administration):
+  1st Semester: 35,800 PKR | 2nd Semester: 32,300 PKR | 3rd Semester: 34,830 PKR | 4th Semester: 37,613 PKR | 5th Semester: 40,674 PKR | 6th Semester: 44,042 PKR | 7th Semester: 47,746 PKR | 8th Semester: 51,820 PKR | Grand Total Program Fee: 324,825 PKR.
+- Arts, Humanities & Social Sciences Group (BS English, BS Economics, BS Psychology, BS Sociology, BS Education, BS Sports Science, BS Islamic Studies, BS International Relations, BS Urdu, B.Ed Hons):
+  1st Semester: 31,800 PKR | 2nd Semester: 27,900 PKR | 3rd Semester: 29,990 PKR | 4th Semester: 32,289 PKR | 5th Semester: 34,818 PKR | 6th Semester: 37,600 PKR | 7th Semester: 40,660 PKR | 8th Semester: 44,026 PKR | Grand Total Program Fee: 279,083 PKR.
+- Diploma Programs (LAD Morning):
+  1st Year Fee: 35,800 PKR | 2nd Year Fee: 33,400 PKR | Grand Total Program Fee: 69,200 PKR.
+
+--- AFTERNOON PROGRAMS SEMESTER FEE PROFILE ---
+- Computing Group (BS CS, BS IT, BS AI, BS Data Science, BBA-IT):
+  1st Semester: 49,800 PKR | 2nd Semester: 47,700 PKR | 3rd Semester: 51,770 PKR | 4th Semester: 56,247 PKR | 5th Semester: 61,172 PKR | 6th Semester: 66,589 PKR | 7th Semester: 72,548 PKR | 8th Semester: 79,103 PKR | Grand Total Program Fee: 484,929 PKR.
+- Science, Agriculture & Admin Group (BBA, BS Chemistry, BS Physics, BS Math, BS Botany, BS Zoology, BS Microbiology, BS Poultry Science, B.Sc. Hons Agriculture, BS Food Science & Tech, BS Biotechnology, BS Public Administration):
+  1st Semester: 44,800 PKR | 2nd Semester: 42,200 PKR | 3rd Semester: 45,720 PKR | 4th Semester: 49,592 PKR | 5th Semester: 53,851 PKR | 6th Semester: 58,536 PKR | 7th Semester: 63,690 PKR | 8th Semester: 69,359 PKR | Grand Total Program Fee: 427,748 PKR.
+- Arts, Humanities & Social Sciences Group (BS English, BS Economics, BS Psychology, BS Sociology, BS Education, BS Sports Science, BS Islamic Studies, BS International Relations, BS Urdu, B.Ed Hons, B.Ed 1.5):
+  1st Semester: 39,800 PKR | 2nd Semester: 36,700 PKR | 3rd Semester: 39,670 PKR | 4th Semester: 42,937 PKR | 5th Semester: 46,531 PKR | 6th Semester: 50,404 PKR | 7th Semester: 54,832 PKR | 8th Semester: 59,615 PKR | Grand Total Program Fee: 370,569 PKR.
+- Diploma Programs (LAD Afternoon):
+  1st Year Fee: 42,800 PKR | 2nd Year Fee: 41,110 PKR | Grand Total Program Fee: 83,910 PKR.
+
+
+[SECTION: STUDENT LIFE, RULES, & EXAMINATION GUIDELINES]
+- Attendance Policy: Students must maintain a minimum of 75% attendance in each registered course to be eligible to sit in the final term examinations. Falling below 75% results in an automatic course drop or 'F' grade due to short attendance.
+- Grading System Scale: University follows the Choice Based Credit System (CBCS) aligned with HEC guidelines. The maximum possible CGPA is 4.00. The passing marks threshold for any individual subject course is strictly 50%.
+- Examination Schedule: Midterm examinations are held in the 8th week of the ongoing semester. Final term examinations take place in the 16th week. 
+- Campus Discipline: Ragging, smoking, political profiling, and union strikes are strictly banned inside university territory. Wearing and carrying a valid Student ID Card at all times is mandatory for entry.
+
+
+[SECTION: HOSTEL, ACCOMMODATION, & TRANSPORTATION SYSTEMS]
+- On-Campus Hostel Accommodation: Available for both male and female students at the Main Campus. Seats are allocated strictly on a distance and merit basis. Hostel allocation forms can be collected from the Student Service Center.
+- Hostel Fees: Annual hostel dues are 18,500 PKR (excluding mess charges). Mess charges are calculated dynamically on a monthly consumption basis.
+- University Transport Fleet: Buses operate on designated routes connecting Layyah City, Chowk Azam, Fatehpur, and Karor Lal Esan directly to the university campuses. Transport card fee is 3,500 PKR per semester.
+
+
+[SECTION: SCHOLARSHIPS AND FINANCIAL AID PROGRAMS]
+- HEC Need-Based Scholarships: Fully funds tuition fees and provides a monthly stipend for deserving, financially challenged students. Applications open in October each academic year.
+- Punjab Educational Endowment Fund (PEEF): Available for students holding a Punjab domicile with at least 60% marks in intermediate.
+- Merit Scholarships: Awarded automatically to the top 3 position holders of each department every semester based on their GPA results, providing a 50% to 100% tuition fee waiver.
+
+
+[SECTION: CAMPUS FACILITIES & EVENTS LIFECYCLE]
+- Central Library: Positioned on the Second Floor of the Main Block. Operational hours are 8:00 AM to 4:00 PM, Monday through Friday. Offers digital library terminals with IEEE, ACM, and HEC digital repository access.
+- Library Card Process: Students must submit 2 passport-sized photographs and their university admission fee challan copy to the Library Registrar Office to secure a book issuance card.
+- Main Sports Gala 2026: Scheduled to launch on November 12, 2026. Features official inter-departmental tournaments in Cricket, Football, Badminton, Table Tennis, and Athletics.
+- Main Campus Cafeteria: Located adjacent to the Student Service Center. Serves fresh meals, hot beverages, tea, and snacks from 7:30 AM to 5:00 PM daily.
+
+
+[SECTION: CONTACT & OFFICIAL ADDRESS INFORMATION]
+- Main Office / Registrar Address: Katchehry Road, Layyah, Punjab, Pakistan.
+- Official Email Support Network: info@ul.edu.pk
+- Helpdesk / WhatsApp Support Line: +920606920247
+- Technical Regulatory Note: The university administration reserves all rights to update, modify, or change course structures, eligibility rules, and fee matrices in compliance with HEC and national councils policy revisions.
+
+[SECTION: COUNTS OF DEPARTMENTS & FACULTIES & CAMPUSES]
+- There are 5 Faculties in University 
+- There are two Campuses in University (Main Campus, City Campus)
+
+[SECTION: UNIVERSITY ADMINISTRATION AND LEADERSHIP]
+- Official Vice Chancellor (VC) Name: Prof. Dr. Muhammad Abu Bakar Zubair (Vice Chancellor of University of Layyah).
+- Keywords: VC name, Vice Chancellor, University head, VC kaun hai, unka naam kya hai.
+- Official Registrar Name: Dr. Zeeshan Hassan (Registrar of University of Layyah).
+- Keywords: Registrar Name, Registrar ka naam kia hai, what is the name of registrar.
+
+[SECTION: ADMISSION]
+- Apply Link: "https://ul.edu.pk/admissions"
+- Keywords: How to take admission, Apply, How to apply, link, university ka link
+=== END OF DATABASE ===

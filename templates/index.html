@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="University of Layyah AI Assistant – Your smart companion for admissions, fee structures, academic programs, and campus information. Powered by local AI.">
+    <meta name="keywords" content="University of Layyah, AI Assistant, Chatbot, Admissions, Fee Structure, Academic Programs">
+    <meta name="author" content="University of Layyah">
+    <title>University of Layyah — AI Assistant</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Lucide Icons CDN -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <!-- ============ FLOATING PARTICLES BACKGROUND ============ -->
+    <div class="particles-container" id="particles-container" aria-hidden="true"></div>
+    <!-- ============ NAVBAR ============ -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-logo" id="nav-logo">
+                <div class="logo-icon">
+                    <i data-lucide="graduation-cap"></i>
+                </div>
+                <div class="logo-text">
+                    <span class="logo-primary">University of Layyah</span>
+                    <span class="logo-sub">AI Assistant</span>
+                </div>
+            </a>
+            <ul class="nav-links" id="nav-links">
+                <li><a href="#hero" class="nav-link active" data-section="hero">Home</a></li>
+                <li><a href="#features" class="nav-link" data-section="features">Features</a></li>
+                <li><a href="#how-it-works" class="nav-link" data-section="how-it-works">How It Works</a></li>
+                <li><a href="#about" class="nav-link" data-section="about">About</a></li>
+            </ul>
+            <div class="nav-actions">
+                <button class="btn-chat-nav" id="btn-chat-nav" aria-label="Open AI Chat">
+                    <i data-lucide="message-circle"></i>
+                    <span>Ask AI</span>
+                </button>
+                <button class="nav-menu-toggle" id="nav-menu-toggle" aria-label="Toggle menu">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+    <!-- ============ HERO SECTION ============ -->
+    <section class="hero" id="hero">
+        <div class="hero-glow"></div>
+        <div class="hero-content">
+            <div class="hero-badge">
+                <i data-lucide="sparkles"></i>
+                <span>Powered Groq AI — 100% Private & Free</span>
+            </div>
+            <h1 class="hero-title">
+                Your Intelligent
+                <span class="gradient-text">University</span>
+                Companion
+            </h1>
+            <p class="hero-subtitle">
+                Get instant answers about admissions, fee structures, academic programs, campus facilities, and everything University of Layyah — powered by cutting-edge Cloud AI pipelines for lightning-fast precision.
+            </p>
+            <div class="hero-cta-group">
+                <button class="btn-primary" id="hero-start-chat" aria-label="Start chatting with AI">
+                    <i data-lucide="message-circle"></i>
+                    <span>Start a Conversation</span>
+                    <div class="btn-shine"></div>
+                </button>
+                <a href="#features" class="btn-secondary" id="hero-explore">
+                    <span>Explore Features</span>
+                    <i data-lucide="arrow-down-right"></i>
+                </a>
+            </div>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <span class="stat-number" data-target="24">0</span><span class="stat-suffix">/7</span>
+                    <span class="stat-label">Available</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" data-target="100">0</span><span class="stat-suffix">%</span>
+                    <span class="stat-label">Private</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" data-target="0">0</span><span class="stat-suffix">$</span>
+                    <span class="stat-label">Cost</span>
+                </div>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <div class="hero-mockup">
+                <div class="mockup-header">
+                    <div class="mockup-dots">
+                        <span></span><span></span><span></span>
+                    </div>
+                    <span class="mockup-title">AI Chat</span>
+                </div>
+                <div class="mockup-body">
+                    <div class="mock-msg bot">
+                        <div class="mock-avatar"><i data-lucide="bot"></i></div>
+                        <div class="mock-bubble">Assalam-o-Alaikum! 👋 Main University of Layyah ka AI Assistant hoon. Kya poochna chahte hain?</div>
+                    </div>
+                    <div class="mock-msg user">
+                        <div class="mock-bubble">BS Computer Science ka admission process kya hai?</div>
+                    </div>
+                    <div class="mock-msg bot">
+                        <div class="mock-avatar"><i data-lucide="bot"></i></div>
+                        <div class="mock-bubble">BS CS ke liye inter mein minimum 45% marks chahiye. Online apply karein portal par...</div>
+                    </div>
+                    <div class="mock-typing">
+                        <div class="mock-avatar"><i data-lucide="bot"></i></div>
+                        <div class="typing-dots"><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-float-card card-1">
+                <i data-lucide="shield-check"></i>
+                <span>100% Local & Private</span>
+            </div>
+            <div class="hero-float-card card-2">
+                <i data-lucide="zap"></i>
+                <span>Instant Responses</span>
+            </div>
+            <div class="hero-float-card card-3">
+                <i data-lucide="brain"></i>
+                <span>Llama 3.1 8B Powered</span>
+            </div>
+        </div>
+    </section>
+    <!-- ============ FEATURES SECTION ============ -->
+    <section class="features" id="features">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="section-tag"><i data-lucide="layout-grid"></i> Capabilities</span>
+                <h2 class="section-title">Everything You Need, <span class="gradient-text">One Chat Away</span></h2>
+                <p class="section-desc">Our AI assistant is trained on comprehensive university data to help you with every query — from admissions to campus life.</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card" id="feature-admissions">
+                    <div class="feature-icon icon-emerald">
+                        <i data-lucide="file-text"></i>
+                    </div>
+                    <h3>Admissions & Eligibility</h3>
+                    <p>Get instant info about admission criteria, required documents, important dates, and eligibility for every department.</p>
+                    <button class="feature-ask" data-query="Admission process kya hai?">
+                        <span>Ask about this</span>
+                        <i data-lucide="arrow-right"></i>
+                    </button>
+                </div>
+                <div class="feature-card" id="feature-fees">
+                    <div class="feature-icon icon-amber">
+                        <i data-lucide="wallet"></i>
+                    </div>
+                    <h3>Fee Structure & Scholarships</h3>
+                    <p>Detailed fee breakdowns for all programs, scholarship opportunities, and fee submission deadlines at your fingertips.</p>
+                    <button class="feature-ask" data-query="Fee structure batao">
+                        <span>Ask about this</span>
+                        <i data-lucide="arrow-right"></i>
+                    </button>
+                </div>
+                <div class="feature-card" id="feature-programs">
+                    <div class="feature-icon icon-violet">
+                        <i data-lucide="book-open"></i>
+                    </div>
+                    <h3>Academic Programs</h3>
+                    <p>Explore BS, MS, and PhD programs across all faculties. Know the course structure and credit hours instantly.</p>
+                    <button class="feature-ask" data-query="Konse programs available hain?">
+                        <span>Ask about this</span>
+                        <i data-lucide="arrow-right"></i>
+                    </button>
+                </div>
+                <div class="feature-card" id="feature-campus">
+                    <div class="feature-icon icon-rose">
+                        <i data-lucide="building-2"></i>
+                    </div>
+                    <h3>Campus & Facilities</h3>
+                    <p>Virtual campus guide — libraries, labs, hostels, transport, and sports facilities, all covered.</p>
+                    <button class="feature-ask" data-query="Campus facilities kya hain?">
+                        <span>Ask about this</span>
+                        <i data-lucide="arrow-right"></i>
+                    </button>
+                </div>
+                <div class="feature-card" id="feature-faculty">
+                    <div class="feature-icon icon-sky">
+                        <i data-lucide="users"></i>
+                    </div>
+                    <h3>Faculty & Departments</h3>
+                    <p>Information about departments, faculty members, HODs, and departmental contacts in seconds.</p>
+                    <button class="feature-ask" data-query="Faculty information chahiye">
+                        <span>Ask about this</span>
+                        <i data-lucide="arrow-right"></i>
+                    </button>
+                </div>
+                <div class="feature-card" id="feature-rules">
+                    <div class="feature-icon icon-teal">
+                        <i data-lucide="scale"></i>
+                    </div>
+                    <h3>Rules & Regulations</h3>
+                    <p>University policies, exam rules, attendance requirements, and code of conduct — all explained simply.</p>
+                    <button class="feature-ask" data-query="University rules kya hain?">
+                        <span>Ask about this</span>
+                        <i data-lucide="arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============ HOW IT WORKS SECTION ============ -->
+    <section class="how-it-works" id="how-it-works">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="section-tag"><i data-lucide="workflow"></i> How It Works</span>
+                <h2 class="section-title">Smart, Private, <span class="gradient-text">Lightning Fast</span></h2>
+                <p class="section-desc">Built with cutting-edge open-source AI utilizes Groq Cloud with optmized prompt pipelines - instaneous respones</p>
+            </div>
+            <div class="steps-timeline">
+                <div class="step-card" id="step-1">
+                    <div class="step-number">01</div>
+                    <div class="step-icon"><i data-lucide="message-square-text"></i></div>
+                    <h3>Ask Your Question</h3>
+                    <p>Type in Urdu, Roman Urdu, or English — our AI understands all. Use quick replies or type freely.</p>
+                </div>
+                <div class="step-connector"><i data-lucide="chevron-right"></i></div>
+                <div class="step-card" id="step-2">
+                    <div class="step-number">02</div>
+                    <div class="step-icon"><i data-lucide="search"></i></div>
+                    <h3>Context Retrieved</h3>
+                    <p>Custom content matching instantly filters relevant university data.</p>
+                </div>
+                <div class="step-connector"><i data-lucide="chevron-right"></i></div>
+                <div class="step-card" id="step-3">
+                    <div class="step-number">03</div>
+                    <div class="step-icon"><i data-lucide="cpu"></i></div>
+                    <h3>AI Processes</h3>
+                    <p>Llama 3.1 8B generates a precise, contextual answer using the retrieved university data.</p>
+                </div>
+                <div class="step-connector"><i data-lucide="chevron-right"></i></div>
+                <div class="step-card" id="step-4">
+                    <div class="step-number">04</div>
+                    <div class="step-icon"><i data-lucide="check-circle-2"></i></div>
+                    <h3>Get Your Answer</h3>
+                    <p>Receive a clear, accurate response in seconds — right in the chat widget.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============ ABOUT / TECH SECTION ============ -->
+    <section class="about" id="about">
+        <div class="section-container">
+            <div class="about-grid">
+                <div class="about-content">
+                    <span class="section-tag"><i data-lucide="info"></i> About This Project</span>
+                    <h2 class="section-title">Built for <span class="gradient-text">Students</span>, by Innovation</h2>
+                    <p class="about-text">
+                        University of Layyah AI Assistant is a Groq Cloud-powered, speed-first help desk assistant... 
+                    </p>
+                    <div class="tech-stack">
+                        <div class="tech-item">
+                            <div class="tech-icon"><i data-lucide="bot"></i></div>
+                            <div>
+                                <strong>Llama 3.1 via Groq</strong>
+                                <span>Local LLM Engine</span>
+                            </div>
+                        </div>
+                        <div class="tech-item">
+                            <div class="tech-icon"><i data-lucide="database"></i></div>
+                            <div>
+                                <strong>Keyword Search</strong>
+                                <span>Factual context matching</span>
+                            </div>
+                        </div>
+                        <div class="tech-item">
+                            <div class="tech-icon"><i data-lucide="server"></i></div>
+                            <div>
+                                <strong>Flask Backend</strong>
+                                <span>Lightweight API server</span>
+                            </div>
+                        </div>
+                        <div class="tech-item">
+                            <div class="tech-icon"><i data-lucide="lock"></i></div>
+                            <div>
+                                <strong>Lightning Fast</strong>
+                                <span>Click, instant reply</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-visual">
+                    <div class="architecture-card">
+                        <div class="arch-header">System Architecture</div>
+                        <div class="arch-flow">
+                            <div class="arch-node node-user">
+                                <i data-lucide="user"></i>
+                                <span>User Query</span>
+                            </div>
+                            <div class="arch-arrow"><i data-lucide="arrow-down"></i></div>
+                            <div class="arch-node node-flask">
+                                <i data-lucide="server"></i>
+                                <span>Contextual Router (Native)</span>
+                            </div>
+                            <div class="arch-arrow"><i data-lucide="arrow-down"></i></div>
+                            <div class="arch-split">
+                                <div class="arch-node node-faiss">
+                                    <i data-lucide="database"></i>
+                                    <span>Custom Search Engine</span>
+                                </div>
+                                <div class="arch-node node-llama">
+                                    <i data-lucide="brain"></i>
+                                    <span>Llama 3.1 8B</span>
+                                </div>
+                            </div>
+                            <div class="arch-arrow"><i data-lucide="arrow-down"></i></div>
+                            <div class="arch-node node-response">
+                                <i data-lucide="message-circle"></i>
+                                <span>Factual Response</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============ FOOTER ============ -->
+    <footer class="footer" id="footer">
+        <div class="footer-container">
+            <div class="footer-top">
+                <div class="footer-brand">
+                    <div class="footer-logo">
+                        <i data-lucide="graduation-cap"></i>
+                        <span>University of Layyah</span>
+                    </div>
+                    <p>Empowering education through intelligent technology. Our AI Assistant is here to serve students 24/7.</p>
+                </div>
+                <div class="footer-links-group">
+                    <div class="footer-col">
+                        <h4>Quick Links</h4>
+                        <a href="#features">Features</a>
+                        <a href="#how-it-works">How It Works</a>
+                        <a href="#about">About</a>
+                    </div>
+                    <div class="footer-col">
+                        <h4>Resources</h4>
+                        <a href="#">Admission Portal</a>
+                        <a href="#">Academic Calendar</a>
+                        <a href="#">Fee Challan</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 University of Layyah. All rights reserved.</p>
+                <p class="footer-powered">Powered by <span class="gradient-text">Llama 3.1 8B</span> & <span class="gradient-text">Non-FAISS</span></p>
+            </div>
+        </div>
+    </footer>
+    <!-- ============ CHATBOT WIDGET ============ -->
+    <div class="chat-widget-wrapper" id="chat-widget-wrapper">
+        <!-- FAB Toggle Button -->
+        <button class="chat-fab" id="chat-fab" aria-label="Open AI Chat Assistant">
+            <div class="fab-icon-open"><i data-lucide="message-circle"></i></div>
+            <div class="fab-icon-close"><i data-lucide="x"></i></div>
+            <div class="fab-pulse"></div>
+            <div class="fab-notification" id="fab-notification">1</div>
+        </button>
+        <!-- Chat Window -->
+        <div class="chat-window" id="chat-window" role="dialog" aria-label="AI Chat Assistant">
+            <!-- Chat Header -->
+            <div class="chat-header" id="chat-header">
+                <div class="chat-header-left">
+                    <div class="chat-avatar">
+                        <i data-lucide="bot"></i>
+                        <span class="avatar-status"></span>
+                    </div>
+                    <div class="chat-header-info">
+                        <span class="chat-header-title">UoL AI Assistant</span>
+                        <span class="chat-header-status" id="chat-status">Online — Ready to help</span>
+                    </div>
+                </div>
+                <div class="chat-header-actions">
+                    <button class="chat-action-btn" id="btn-clear-chat" aria-label="Clear chat" title="Clear chat">
+                        <i data-lucide="trash-2"></i>
+                    </button>
+                    <button class="chat-action-btn" id="btn-minimize-chat" aria-label="Minimize chat" title="Minimize">
+                        <i data-lucide="minus"></i>
+                    </button>
+                </div>
+            </div>
+            <!-- Chat Body -->
+            <div class="chat-body" id="chat-body">
+                <!-- Welcome Message -->
+                <div class="chat-welcome" id="chat-welcome">
+                    <div class="welcome-icon">
+                        <i data-lucide="sparkles"></i>
+                    </div>
+                    <h3>Assalam-o-Alaikum! 👋</h3>
+                    <p>Main University of Layyah ka AI Assistant hoon. Admissions, fee, programs — kuch bhi poochein!</p>
+                </div>
+                <!-- Messages Container -->
+                <div class="chat-messages" id="chat-messages"></div>
+            </div>
+            <!-- Quick Replies -->
+            <div class="quick-replies" id="quick-replies">
+                <button class="quick-btn" data-query="Admission process kya hai?">
+                    <i data-lucide="file-text"></i> Admission Process
+                </button>
+                <button class="quick-btn" data-query="Fee structure batao">
+                    <i data-lucide="wallet"></i> Fee Structure
+                </button>
+                <button class="quick-btn" data-query="Konse programs available hain?">
+                    <i data-lucide="book-open"></i> Programs
+                </button>
+                <button class="quick-btn" data-query="Scholarship information">
+                    <i data-lucide="award"></i> Scholarships
+                </button>
+                <button class="quick-btn" data-query="Campus facilities kya hain?">
+                    <i data-lucide="building-2"></i> Campus
+                </button>
+                <button class="quick-btn" data-query="Contact information chahiye">
+                    <i data-lucide="phone"></i> Contact
+                </button>
+            </div>
+            <!-- Chat Input -->
+            <div class="chat-input-area" id="chat-input-area">
+                <div class="chat-input-wrapper">
+                    <textarea 
+                        class="chat-input" 
+                        id="chat-input" 
+                        placeholder="Type your question..." 
+                        rows="1"
+                        aria-label="Type your message"
+                    ></textarea>
+                    <button class="chat-send-btn" id="chat-send-btn" aria-label="Send message" disabled>
+                        <i data-lucide="send-horizontal"></i>
+                    </button>
+                </div>
+                <span class="chat-footer-text">Powered by Llama 3.2 — Responses may vary</span>
+            </div>
+        </div>
+    </div>
+    <script src="/static/js/chat.js"></script>
+</body>
+</html>
